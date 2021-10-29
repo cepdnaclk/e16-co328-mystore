@@ -1,0 +1,3 @@
+[submodule "mystore-api"]
+	path = mystore-api
+	url = git@github.com:buddhiheshan/mystore-api.git
