@@ -1,3 +1,6 @@
 [submodule "mystore-api"]
 	path = mystore-api
 	url = git@github.com:buddhiheshan/mystore-api.git
+[submodule "E-Commerce-WebApplication"]
+	path = E-Commerce-WebApplication
+	url = https://github.com/kavin-du/E-Commerce-WebApplication.git
